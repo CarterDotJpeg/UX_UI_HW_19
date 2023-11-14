@@ -1,0 +1,17 @@
+body {
+    
+    text-align: center;
+    
+    padding: 200px;
+    background-color: #D9EAFF;
+}
+img {
+    margin: 50px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
